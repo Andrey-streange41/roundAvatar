@@ -1,0 +1,90 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.firstSection
+{
+    background: rgb(160, 152, 152);
+    height: 100%;
+    width: 100%;
+    border: solid black;
+    min-height: 900px;
+    max-height: 1800px;
+}
+
+.personBlock
+{
+    background: white;
+    background-image: url("img/gor.jpg");
+    border: solid black;
+    max-width: 716px;
+    min-width: 716px;
+    max-height: 709px;
+    min-height: 709px;
+    width: 30%;
+    height: 100%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 35%;
+    border-radius: 10%;
+    overflow: hidden;
+}
+
+.whiteBack
+{
+    background-color: rgb(255, 255, 255);
+    border:solid 1px;
+    width: 100%;
+    min-height: 900px;
+    margin-top: 35%;
+   
+}
+
+.avatar
+{
+    border: solid white 8px;
+    border-radius: 50%;
+    margin: -10% 33%;
+    min-width: 231px;
+    max-width: 231px;
+}
+
+.p1
+{
+   
+    width: 200px;
+    margin-top: 10%;
+    margin-bottom: 0px;;
+    padding-right: 0px;
+    margin-left: 35%;
+    font-size:33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p2
+{
+    width: 400px;
+    margin-top: 2%;
+    padding-right: 0px;
+    margin-left: 37%;
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p3
+{
+    width: 400px;
+    margin-left: 23%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.sm-links
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 5%;
+}
+.links_img
+{
+margin-left: 30%;
+}
